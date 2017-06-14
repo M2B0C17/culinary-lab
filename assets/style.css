@@ -10,6 +10,8 @@ body{
 /*Sección 1*/
 .navbar{
 	background: transparent;
+	padding-top: 1%;
+	padding-bottom: 1%;
 }
 
 .sec1{
@@ -23,6 +25,13 @@ body{
 	text-decoration: none;
 	list-style: none;
 	color: white;
+	display: inline-block;
+}
+
+.linkss:hover{
+	text-decoration: none;
+	list-style: none;
+	color: gray;
 	display: inline-block;
 }
 
@@ -77,7 +86,6 @@ body{
 }
 
 .linea{
-	color: black;
 	size: 1px;
 	width: 150px;
 	margin-bottom: 2px;
@@ -109,4 +117,48 @@ hr{
 	text-align: center;
 	padding-top: 6%;
 	font-size: 31px;
+}
+
+/*SECCIÓN 2 A - Parte 2*/
+
+.sec2A{
+	background-image: url(../img/bg-quote.jpg);
+	background-size: cover;
+	height: 100vh;
+}
+
+.parraf2A{
+	color: white;
+	font-size: 35px;
+	text-align: center;
+	margin-top: 15%;
+	text-transform: 300;
+}
+
+.linea2A{
+	size: 1px;
+	width: 150px;
+	margin-bottom: 2px;
+	border: 1px;
+	border-top: 0.5px solid white;
+}
+
+.botonsec2A{
+	text-decoration: none;
+	color: white;
+	text-align: center;
+	font-size: 20px;
+	font-weight: bold;
+	border: 1.5px solid;
+	padding: 1%;
+}
+
+.botonsec2A:hover{
+	text-decoration: none;
+	color: black;
+}
+
+.cajaBotonSec2A{
+	padding-top: 3%;
+	padding-left: 8.5%;
 }
