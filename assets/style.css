@@ -9,13 +9,21 @@ body{
 
 /*Sección 1*/
 .navbar{
-	background: black;
+	background: transparent;
 }
 
 .sec1{
 	background-image: url(../img/bg-header.jpg);
 	background-size: cover;
 	height: 100vh;
+}
+
+/*ARREGLAR*/
+.linkss{
+	text-decoration: none;
+	list-style: none;
+	color: white;
+	display: inline-block;
 }
 
 .imgSec1{
