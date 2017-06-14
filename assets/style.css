@@ -1,0 +1,40 @@
+*{
+	padding: 0;
+	margin: 0;
+}
+
+/*Sección 1*/
+.navbar{
+	background: black;
+}
+
+.sec1{
+	background-image: url(../img/bg-header.jpg);
+	background-size: cover;
+	height: 100vh;
+}
+
+.imgSec1{
+	padding-top: 15%;
+	padding-left: 30%;
+}
+
+.abajoGirl{
+	background-color: transparent;
+	border: 3px solid;
+	border-radius: 80px;
+	font-size: 56px;
+	text-decoration: none;
+	color: white;
+}
+
+.abajoGirl:hover{
+	color: black;
+}
+
+.teniendoAlIcono{
+	padding-top: 10%;
+	padding-left: 41%;
+}
+
+/*Sección 2*/
