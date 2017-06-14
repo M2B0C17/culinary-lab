@@ -16,7 +16,7 @@
 
 .imgSec1{
 	padding-top: 15%;
-	padding-left: 30%;
+	padding-left: 35%;
 }
 
 .abajoGirl{
@@ -34,7 +34,30 @@
 
 .teniendoAlIcono{
 	padding-top: 10%;
-	padding-left: 41%;
+	padding-left: 46%;
 }
 
 /*Sección 2*/
+
+.textos1{
+	text-align: center;
+}
+
+.titulo1{
+	text-transform: uppercase;
+	font-weight: bold;
+}
+
+.linea{
+	color: black;
+	size: 1px;
+	width: 150px;
+	margin-top: 0;
+	margin-bottom: 2px;
+	border: 1px;
+	border-top: 0.5px solid orange;
+}
+
+hr{
+	margin: 0 auto;
+}
