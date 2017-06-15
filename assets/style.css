@@ -245,3 +245,29 @@ hr{
 .carousel-indicators .active {
 	background: #428bca;
 }
+
+/*SECCIÓN 4*/
+
+.t4{
+	font-size: 60px;
+}
+
+.tituloA3{
+	text-transform: uppercase;
+	font-weight: bold;
+	margin-bottom: 2%;
+	font-size: 15px;
+	text-align: center;
+}
+
+/*STARTS*/
+
+.fa-star{
+	margin-left: 1%;
+	margin-right: 1%;
+	color: #FFE80D;
+}
+
+.cajaTestimonios{
+	padding-left: 45%;
+}
