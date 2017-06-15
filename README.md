@@ -64,8 +64,8 @@ Proyecto Maquetado - Culinary Lab - Lección 30 - 14 Junio 2017
 
 **Sección 1 Material**
 1° Analizaremos un poco el Nav. Según la información adquerida de https://www.w3schools.com/bootstrap/bootstrap_navbar.asp:
-*"Con Bootstrap, una barra de navegación se puede extender o contraer, dependiendo del tamaño de la pantalla.
-  Una barra de navegación estándar se crea con ```<nav class="navbar navbar-default">```."*
+"*Con Bootstrap, una barra de navegación se puede extender o contraer, dependiendo del tamaño de la pantalla.
+  Una barra de navegación estándar se crea con ```<nav class="navbar navbar-default">```.*"
   
 "*Algunas reglas del sistema de Grilla Bootstrap:*
 
