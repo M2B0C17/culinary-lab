@@ -25,11 +25,9 @@ body{
 	border: 0px solid;
 }
 
-.linkss:hover{
-	text-decoration: none;
-	list-style: none;
-	color: whitesmoke;
-	display: inline-block;
+.navbar-color{
+	background-color: black;
+	height: 70px;
 }
 
 .imgSec1{

@@ -23,3 +23,16 @@ $(document).ready(function() {
         interval: 5000
     })
 });
+
+// MENU
+
+window.addEventListener('scroll', function () {
+  const distanciaVertical = window.pageYOffset || document.documentElement.scrollTop,
+  header = document.getElementById('header');
+  
+  if (distanciaVertical > 300) {
+    header.classList.add("navbar-color");
+  } else {
+    header.classList.remove("navbar-color");
+  }
+});
