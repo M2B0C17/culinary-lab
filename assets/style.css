@@ -165,17 +165,56 @@ hr{
 
 /*SECCIÓN 3*/
 
+.sec3{
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
 .parrafSec3{
 	padding-bottom: 1%;
 }
 
 /*CAROUSEL*/
+.sec3A{
+	padding-top: 2%;
+}
 
 .carousel {
     margin-bottom: 0;
     padding: 0 40px 30px 40px;
 }
-/* The controlsy */
+
+.tituloSec3{
+	font-weight: bold;
+	font-size: 23px;
+	color: whitesmoke;
+}
+
+.bajadaSec3{
+	color: whitesmoke;
+}
+
+.linea3{
+	size: 1px;
+	width: 50px;
+	margin-bottom: 2px;
+	border: 1px;
+	border-top: 0.5px solid whitesmoke;
+}
+
+/*ICONOS*/
+.fa-linkedin, .fa-facebook, .fa-envelope-o{
+	margin-left: 4%;
+	margin-right: 4%;
+	color: whitesmoke;
+}
+
+.cajatextosSec3{
+	padding-bottom: 33%;
+}
+
+/*CONTROLES*/
+
 .carousel-control {
 	left: -12px;
     height: 40px;
@@ -185,20 +224,24 @@ hr{
     border-radius: 23px 23px 23px 23px;
     margin-top: 90px;
 }
+
 .carousel-control.right {
 	right: -12px;
 }
-/* The indicators */
+
+/*INDICADORES*/
+
 .carousel-indicators {
 	right: 50%;
 	top: auto;
 	bottom: -10px;
 	margin-right: -19px;
 }
-/* The colour of the indicators */
+
 .carousel-indicators li {
 	background: #cecece;
 }
+
 .carousel-indicators .active {
-background: #428bca;
+	background: #428bca;
 }
