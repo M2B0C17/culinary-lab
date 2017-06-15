@@ -62,7 +62,8 @@ Proyecto Maquetado - Culinary Lab - Lección 30 - 14 Junio 2017
     <script type="text/javascript" src="assets/bootstrap.js"></script>
     <script type="text/javascript" src="assets/funciones.js"></script>```
 
-**Sección 1 Material**
+### Sección 1 Material
+
 1° Analizaremos un poco el Nav. Según la información adquerida de https://www.w3schools.com/bootstrap/bootstrap_navbar.asp:
 "*Con Bootstrap, una barra de navegación se puede extender o contraer, dependiendo del tamaño de la pantalla.
   Una barra de navegación estándar se crea con ```<nav class="navbar navbar-default">```.*"
@@ -76,5 +77,7 @@ Proyecto Maquetado - Culinary Lab - Lección 30 - 14 Junio 2017
   *5.- Columnas crean canalones (huecos entre contenido de la columna) a través de relleno. Que el relleno se compensa (offset) en filas para la primera y última columna a través de margen negativo en.rows.*
   *6.- Columnas de la cuadrícula se crean especificando el número de 12 columnas disponibles que desea abarcar. Por ejemplo, tres columnas iguales usarían tres.col-sm-4.*"
 
-Vista Previa del Ejercicio --> https://m2b0c17.github.io/culinary-lab/
+
+
+**Vista Previa del Ejercicio --> https://m2b0c17.github.io/culinary-lab/**
 
