@@ -21,17 +21,14 @@ body{
 }
 
 /*ARREGLAR*/
-.linkss{
-	text-decoration: none;
-	list-style: none;
-	color: white;
-	display: inline-block;
+.navbar{
+	border: 0px solid;
 }
 
 .linkss:hover{
 	text-decoration: none;
 	list-style: none;
-	color: gray;
+	color: whitesmoke;
 	display: inline-block;
 }
 
@@ -294,7 +291,7 @@ hr{
 }
 
 .spansito{
-	background-color: #424143;
+	background-color: #A4B08C;
 	border: none;
 	color: whitesmoke;
 }
