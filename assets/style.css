@@ -248,6 +248,11 @@ hr{
 
 /*SECCIÓN 4*/
 
+.sec4{
+	padding-top: 5%;
+	padding-bottom: 5%;
+}
+
 .t4{
 	font-size: 60px;
 }
@@ -270,4 +275,39 @@ hr{
 
 .cajaTestimonios{
 	padding-left: 45%;
+}
+
+/*SECCIÓN 4 - SUBSCRIPCIÓN*/
+.sec4A2{
+	background: black;
+	background-size: cover;
+	height: 70vh;
+}
+
+.colorTitSec4A2{
+	color: whitesmoke;
+}
+
+.inscripcion{
+	padding-left: 36%;
+	padding-top: 2%;
+}
+
+.spansito{
+	background-color: #424143;
+	border: none;
+	color: whitesmoke;
+}
+
+.inputsito{
+	padding-top: 15%;
+	padding-right: 1%;
+}
+
+.span4{
+	padding-top: 3%;
+}
+
+.span2{
+	height: 30px;
 }
